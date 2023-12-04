@@ -1,0 +1,13 @@
+.main {
+    margin-top: 100px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: black;
+    border: 3px solid black;
+    width: 140px;
+    height: 80px;
+    font-size: 40px;
+    background-color: orange;
+    border-radius: 10px;   
+    font-family: 'Courier New', Courier, monospace;
+}

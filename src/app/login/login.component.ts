@@ -25,7 +25,7 @@ export class LoginComponent {
 
   onSubmit(loginData:any){
 
-    if(loginData.login === "Admin" && loginData.password === "12345"){
+    if(loginData.login === "Admin" && loginData.password === "11111"){
       console.log(loginData);
 
       this.checkoutForm.reset();

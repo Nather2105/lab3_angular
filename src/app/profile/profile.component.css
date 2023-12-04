@@ -1,0 +1,23 @@
+.prof {
+    border: 3px solid black;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 250px;
+    height: 100px;
+    align-items: center;
+    padding-left: 30px;
+    padding-top: 30px;
+    border-radius: 10px;
+    background-color: orange;
+}
+
+.btn {
+    margin-top: 10px;
+    color: black;
+    border: 3px solid black;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    background-color: orange;
+    border-radius: 10px;
+}
